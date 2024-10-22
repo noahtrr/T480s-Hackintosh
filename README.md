@@ -8,7 +8,7 @@ A work in progress repo for a hackintosh based on my T480s.
 | GPU | Intel UHD Graphics 620 |
 |Keyboard|PS2|
 |Trackpad| HID Touchpad|
-|Audio Codec||
+|Audio Codec|Realtek ALC257|
 |Network Controller|Intel I219-V|
 |Drive Model|WD Blue SN570 1TB|
 |WWAN Module|Fibocom L830-EB|
