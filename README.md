@@ -12,9 +12,9 @@ A work in progress repo for a hackintosh based on my T480s.
 |Network Controller|Intel I219-V|
 |Drive Model|WD Blue SN570 1TB|
 |WWAN Module|Fibocom L830-EB|
-|WiFi & BT|Intel AX210 160MHz|
+|WiFi & BT|Broadcom BCM4360|
 
 ## Chosen MacOS
->Sonoma
+>Sequoia
 
 ## 
